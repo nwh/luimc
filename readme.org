@@ -19,4 +19,4 @@ Email: nwh@stanford.edu
 
 * History
 
-** <2011-11-28 Mon> first version uploaded to github
+- <2011-11-28 Mon> first version uploaded to github
